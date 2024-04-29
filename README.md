@@ -7,6 +7,6 @@
   <P> МАМАНДЫҚ:ЦИФРЛЫҚ ТАРИХ ЖәНЕ АРХЕОЛОГИЯ </P>
   <P> ШТРИХ КОДЫ:6В01609 </P>
   <A HREF="https://abdiakimovaorazkul.wixsite.com/my-site">ЭЛЕКТРОНДЫҚ ПОРТФОЛИО</A>
-  <IMG SRC="https://static.wixstatic.com/media/485a96_8c58c0ab01bb457996885bf09419ff62~mv2.jpeg/v1/fill/w_337,h_482,al_c,q_80,enc_auto/485a96_8c58c0ab01bb457996885bf09419ff62~mv2.jpeg"width="250"/>  
+  <IMG SRC="https://static.wixstatic.com/media/485a96_8c58c0ab01bb457996885bf09419ff62~mv2.jpeg/v1/fill/w_337,h_482,al_c,q_80,enc_auto/485a96_8c58c0ab01bb457996885bf09419ff62~mv2.jpeg" width="250"/>  
 </BODY>
 </HTML>
